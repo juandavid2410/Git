@@ -1,4 +1,4 @@
-# Git ¿Que es un git?
+# FundamentosB. ¿Que es un git?
 
 Git es un sistema de gestión de código distribuido y de control de versiones gratuito y de código abierto que se distribuye bajo la licencia pública general GNU versión 2. Además del control de versiones de software, Git se utiliza para otras aplicaciones, como la gestión de la configuración y la gestión de contenidos.
 
